@@ -1,0 +1,14 @@
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\pojo\common\ResponseObject.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\service\inter\ICommentService.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\model\Post.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\service\PostService.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\controller\CommentController.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\DemoApplication.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\service\CommentService.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\pojo\CommentPojo.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\pojo\PostPojo.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\service\inter\IPostService.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\dao\IPostRepository.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\model\Comment.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\dao\ICommentRepository.java
+D:\Office\G3S\springBasics\task\src\main\java\com\blogs\demo\controller\PostController.java
